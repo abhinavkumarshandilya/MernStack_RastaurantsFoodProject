@@ -57,7 +57,6 @@ This section has moved here: [https://facebook.github.io/create-reac!
 t-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/an
 alyzing-the-bundle-size)
 ![Screenshot (44)](https://github.com/abhinavkumarshandilya/MernStack_RastaurantsFoodProject/assets/141053732/aa49d13c-0eed-4cfc-904c-6f96a3a59478)
-[Uploading Screenshot (47).png…]()
 ![Screenshot (48)](https://github.com/abhinavkumarshandilya/MernStack_RastaurantsFoodProject/assets/141053732/46f01a31-c2b7-499e-b901-9910b870d3c0)
 ![Screenshot (47)](https://github.com/abhinavkumarshandilya/MernStack_RastaurantsFoodProject/assets/141053732/3a4fef31-d75b-45b5-a351-674eeee7320b)
 ![Screenshot (45)](https://github.com/abhinavkumarshandilya/MernStack_RastaurantsFoodProject/assets/141053732/a20ebd2a-4b84-46de-ba50-d24200655ebe)
